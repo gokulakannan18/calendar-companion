@@ -5,7 +5,12 @@ A premium, fully interactive wall calendar component built with **React.js** and
 ---
 
 ## 🚀 Live Demo
-calendar-companion-ashy.vercel.app
+
+👉 https://calendar-companion-ashy.vercel.app
+
+---
+
+## ✨ Features
 
 ### 📅 Calendar & Navigation
 
@@ -13,6 +18,8 @@ calendar-companion-ashy.vercel.app
 * Highlight for today’s date
 * Previous / Next month navigation
 * Quick month & year picker
+
+---
 
 ### 🎯 Date Range Selection
 
@@ -25,6 +32,8 @@ calendar-companion-ashy.vercel.app
 * Smart hover preview before selection
 * Drag-to-select range support
 
+---
+
 ### 📝 Notes System
 
 * Add notes for:
@@ -33,6 +42,8 @@ calendar-companion-ashy.vercel.app
   * Selected date range
 * Persistent storage using localStorage
 
+---
+
 ### 🖼 Dynamic Hero Images
 
 * Unique image for each month
@@ -40,20 +51,28 @@ calendar-companion-ashy.vercel.app
 * Subtle zoom/parallax effect
 * Gradient overlay for readability
 
+---
+
 ### 🎨 Dynamic Theme
 
 * Theme colors adapt based on hero image
 * Consistent UI styling across components
+
+---
 
 ### 🎉 Events / Holidays
 
 * Indicators on specific dates
 * Tooltip display for events
 
+---
+
 ### ⏳ Loading & Feedback
 
 * Skeleton loader during month transitions
 * Smooth animations and micro-interactions
+
+---
 
 ### 🔄 State Persistence
 
@@ -63,6 +82,8 @@ calendar-companion-ashy.vercel.app
   * Current month
   * Notes
   * Theme preference
+
+---
 
 ### ♿ Accessibility
 
@@ -74,10 +95,14 @@ calendar-companion-ashy.vercel.app
 * ARIA roles for screen readers
 * Focus visibility maintained
 
+---
+
 ### 🌙 Dark Mode
 
 * Light / Dark theme toggle
 * Persists user preference
+
+---
 
 ### 📱 Fully Responsive
 
@@ -96,7 +121,9 @@ calendar-companion-ashy.vercel.app
 
 ---
 
- 📁 Project Structure
+## 📁 Project Structure
+
+```bash
 /components
   Calendar.tsx
   DateCell.tsx
@@ -118,44 +145,66 @@ calendar-companion-ashy.vercel.app
 
 /types
   index.ts
+```
 
-⚙️ How to Run Locally
-1️⃣ Clone the Repository
+---
 
-bash
-git clone  https://github.com/gokulakannan18/calendar-companion.git
+## ⚙️ How to Run Locally
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/gokulakannan18/calendar-companion.git
 cd calendar-companion
+```
 
-2️⃣ Install Dependencies
+---
 
-bash
+### 2️⃣ Install Dependencies
+
+```bash
 npm install
+```
 
-or
+*or*
 
-bash
+```bash
 yarn install
+```
 
-3️⃣ Start Development Server
+---
 
-bash
+### 3️⃣ Start Development Server
+
+```bash
 npm run dev
+```
 
-or
+*or*
 
-bash
+```bash
 yarn dev
+```
 
-4️⃣ Open in Browser
+---
+
+### 4️⃣ Open in Browser
 
 Visit:
-http://localhost:3000
+👉 http://localhost:3000
 
-🧪 Build for Production
+---
+
+## 🧪 Build for Production
+
+```bash
 npm run build
 npm start
+```
 
-🎯 Key Highlights
+---
+
+## 🎯 Key Highlights
 
 * Clean, scalable architecture
 * Reusable component design
@@ -163,14 +212,17 @@ npm start
 * Performance-optimized rendering
 * Production-ready code quality
 
-🚀 Future Improvements
+---
+
+## 🚀 Future Improvements
 
 * Backend integration for cloud sync
 * Multi-user collaboration
 * Calendar export (Google / iCal)
 * Drag-and-drop event creation
 
-Author
+---
+
+## 👨‍💻 Author
+
 GitHub: https://github.com/gokulakannan18
-
-
