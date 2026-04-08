@@ -1,6 +1,6 @@
-# 🗓️ Interactive Wall Calendar (React.js)
+# 🗓️ Interactive Wall Calendar
 
-A premium, fully interactive wall calendar component built with **React.js and **TypeScript**, designed to deliver a real-world product experience with clean architecture, smooth UX, and responsive design.
+A premium, fully interactive wall calendar component built with **React.js** and **TypeScript**, designed to deliver a real-world product experience with clean architecture, smooth UX, and responsive design.
 
 ---
 
